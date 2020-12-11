@@ -1,0 +1,5 @@
+
+
+Materials used in these lessons are derived from Daniel van Strien’s “An Introduction to Version Control Using GitHub Desktop,”, Programming Historian, (17 June 2016). The Programming Historian ISSN 2397-2068, is released under the Creative Commons Attribution license (CC BY 4.0).*
+
+Materials are also derived from Software Carpentry instructional material. These materials are also licensed under the Creative Commons Attribution license (CC BY 4.0).*
